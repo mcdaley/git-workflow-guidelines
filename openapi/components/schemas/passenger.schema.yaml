@@ -1,0 +1,14 @@
+# --------------------------------------------------
+# openapi/components/schemas/passenger.schema.yaml
+# --------------------------------------------------
+type:        object
+description: Passenger resource
+properties:
+  first_name:
+    type:  string
+  last_name:
+    type:  string
+  email:
+    type:  string
+  phone:
+    type:  string
