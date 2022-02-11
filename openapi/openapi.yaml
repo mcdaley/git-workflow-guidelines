@@ -15,4 +15,6 @@ path:
     $ref: './paths/trips/trips.openapi.yaml'
   /payments:
     $ref: './paths/payments/payments.openapi.yaml'
+  /cards:
+    $ref: './paths/cards/cards.openapi.yaml'
 
