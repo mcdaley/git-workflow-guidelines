@@ -11,5 +11,6 @@ path:
     $ref: './paths/passengers/passengers.openapi.yaml'
   /drivers:
     $ref: './paths/drivers/drivers.openapi.yaml'
-
+  /trips:
+    $ref: './paths/trips/trips.openapi.yaml'
 
