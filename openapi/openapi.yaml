@@ -6,4 +6,8 @@ info:
   version:        1.0.0
   title:          taxi.com
   description:    Example rideshare API
+paths:
+  /drivers:
+    $ref: './paths/drivers/drivers.openapi.yaml'
+
 
