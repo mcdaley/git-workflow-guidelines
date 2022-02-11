@@ -9,5 +9,7 @@ info:
 path:
   /passengers:
     $ref: './paths/passengers/passengers.openapi.yaml'
+  /drivers:
+    $ref: './paths/drivers/drivers.openapi.yaml'
 
 
